@@ -1,0 +1,2 @@
+# QuadraticEquationCalculator
+A quadratic equation calculator is a tool used to solve quadratic equations. A quadratic equation is an equation of the form ax2 + bx + c = 0, where a, b, and c are real numbers and a ≠ 0. The calculator can be used to find the roots of the equation (the values of x that make the equation true) as well as other information about the equation such as the maximum or minimum value of the function described by it.
